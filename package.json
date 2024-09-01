@@ -1,5 +1,5 @@
 {
-  "name": "crtl/color-tags",
+  "name": "color-tags",
   "version": "1.0.0",
   "main": "color-tags.js",
   "description": "colorTag is used to generate a random color from a given string. The goal is to create deterministic, usable colors for the purpose of adding color coding to tags.",
